@@ -7,6 +7,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "check": "npm run eslint:check && npm run prettier:check && npm run stylelint:check",
     "eslint:check": "eslint src --ext .jsx --ext .js",
     "eslint:fix": "eslint src --ext .jsx --ext .js --fix",
     "prettier:check": "prettier --check \"src/**/*.{js,jsx,scss,json}\"",
