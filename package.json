@@ -9,8 +9,10 @@
     "eject": "react-scripts eject",
     "eslint:check": "eslint src --ext .jsx --ext .js",
     "eslint:fix": "eslint src --ext .jsx --ext .js --fix",
-    "prettier:check": "prettier --check \"src/**/*.{js,jsx,scss}\"",
-    "prettier:fix": "prettier --write \"src/**/*.{js,jsx,scss}\"",
+    "prettier:check": "prettier --check \"src/**/*.{js,jsx,scss,json}\"",
+    "prettier:fix": "prettier --write \"src/**/*.{js,jsx,scss,json}\"",
+    "prettier:check:json": "prettier --check \"*.json\"",
+    "prettier:fix:json": "prettier --write \"*.json\"",
     "stylelint:check": "stylelint \"src/**/*.scss\"",
     "stylelint:fix": "stylelint \"src/**/*.scss\" --fix",
     "prepare": "husky install",
@@ -20,13 +22,13 @@
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
+    "lint-staged": "^12.4.1",
     "node-sass": "^5.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2",
-    "uuid": "8.3.2"
+    "web-vitals": "^1.1.2"
   },
   "devDependencies": {
     "eslint": "^7.30.0",
