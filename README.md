@@ -32,5 +32,5 @@ npm start
 [license-shield]: https://img.shields.io/github/license/nikmace/boilerplate-react.svg?style=for-the-badge
 [license-url]: https://github.com/nikmace/boilerplate-react/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/nikita-baranov-34a7ba1a2
 [product-screenshot]: images/screenshot.png
