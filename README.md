@@ -19,7 +19,7 @@ then
 npm start
 ```
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES SHIELDS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/nikmace/boilerplate-react.svg?style=for-the-badge
 [contributors-url]: https://github.com/nikmace/boilerplate-react/graphs/contributors
